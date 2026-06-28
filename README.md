@@ -45,6 +45,6 @@
 ---
 
 ## 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/abhishekh-bamniya-973483297)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://kaggle.com/abhishekhbamniya)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:bamniya1999abhishek@gmail.com)
